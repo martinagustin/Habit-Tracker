@@ -1,0 +1,14 @@
+/home/martin/projects/Habit-Tracker/Habit-Tracker/bin/Debug/net8.0/Habit-Tracker
+/home/martin/projects/Habit-Tracker/Habit-Tracker/bin/Debug/net8.0/Habit-Tracker.deps.json
+/home/martin/projects/Habit-Tracker/Habit-Tracker/bin/Debug/net8.0/Habit-Tracker.runtimeconfig.json
+/home/martin/projects/Habit-Tracker/Habit-Tracker/bin/Debug/net8.0/Habit-Tracker.dll
+/home/martin/projects/Habit-Tracker/Habit-Tracker/bin/Debug/net8.0/Habit-Tracker.pdb
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/Habit-Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/Habit-Tracker.AssemblyInfoInputs.cache
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/Habit-Tracker.AssemblyInfo.cs
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/Habit-Tracker.csproj.CoreCompileInputs.cache
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/Habit-Tracker.dll
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/refint/Habit-Tracker.dll
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/Habit-Tracker.pdb
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/Habit-Tracker.genruntimeconfig.cache
+/home/martin/projects/Habit-Tracker/Habit-Tracker/obj/Debug/net8.0/ref/Habit-Tracker.dll
